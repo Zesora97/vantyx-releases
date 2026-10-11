@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0",
-  "label": "2.5 Beta",
-  "notes": "## Neu in 2.5\n- **Neues Design**: Navigation oben, ruhige Glaskarten auf blaugrauem Hintergrund – Lila nur noch im Logo\n- Feine Trennlinien zwischen den Bereichen\n- Glaskarten schimmern beim Drüberfahren einmal sanft\n- Begrüßung als große Zeile mit drei Kennzahl-Feldern\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.0.json",
+  "version": "2.5.1",
+  "label": "2.5.1 Beta",
+  "notes": "## Neu in 2.5.1\n- **Echter Glaseffekt**: Karten sind milchig durchscheinend, dahinter weiche Lichtflächen\n- **Lichtlauf am Rand**: Beim Drüberfahren läuft ein Lichtpunkt an der Kante der Karte entlang\n- „Guten Morgen, Julian\" jetzt in einer Größe\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.1.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
