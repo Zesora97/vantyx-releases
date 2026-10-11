@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "label": "2.4.1 Beta",
-  "notes": "## Neu in 2.4\n- **Dashboard in Seiten**: festes Raster, das Mausrad blättert zur nächsten Seite – nichts wird mehr angeschnitten\n- Eigene Seiten anlegen, umbenennen (Doppelklick auf den Tab) und löschen\n- **Anpassen wie am Handy**: Widgets auf freie Felder ziehen, gleich große tauschen den Platz, auf einen Tab ziehen schiebt sie auf die andere Seite\n- Größen per Klick: S, M, L oder ganze Breite – nichts rutscht mehr nach\n- **Automatische Updates**: VantyX sucht selbst nach neuen Versionen, lädt sie im Hintergrund und spielt sie mit einem Klick (oder beim nächsten Start) ein\n- Kompaktere Begrüßung, mehr Platz für die Widgets\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.4.1.json",
+  "version": "2.5.0",
+  "label": "2.5 Beta",
+  "notes": "## Neu in 2.5\n- **Neues Design**: Navigation oben, ruhige Glaskarten auf blaugrauem Hintergrund – Lila nur noch im Logo\n- Feine Trennlinien zwischen den Bereichen\n- Glaskarten schimmern beim Drüberfahren einmal sanft\n- Begrüßung als große Zeile mit drei Kennzahl-Feldern\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.0.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
