@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "label": "2.6 Beta",
-  "notes": "## Neu in 2.6\n- **Musik-Widget „Läuft gerade“** in der rechten Spalte: Cover, Titel und Künstler von Spotify, YouTube & Co.\n- Zurück, Play/Pause und Weiter direkt in VantyX – ohne Login, über die Windows-Mediensteuerung\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.6.0.json",
+  "version": "2.6.1",
+  "label": "2.6.1 Beta",
+  "notes": "## Neu in 2.6.1\n- Musik-Widget: Fehler behoben, durch den Spotify nicht erkannt wurde\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.6.1.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
