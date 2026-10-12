@@ -1,8 +1,8 @@
 {
-  "version": "2.6.1",
-  "label": "2.6.1 Beta",
-  "notes": "## Neu in 2.6.1\n- Musik-Widget: Fehler behoben, durch den Spotify nicht erkannt wurde\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.6.1.json",
+  "version": "2.6.2",
+  "label": "2.6.2 Beta",
+  "notes": "## Neu in 2.6.2\n- Musik-Widget neu verbunden: sucht gezielt nach Spotify und meldet klar, wenn Windows nicht antwortet\n- Beträge in den Tages-Kacheln brechen nicht mehr um\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.6.2.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
