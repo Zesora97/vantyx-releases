@@ -1,8 +1,8 @@
 {
-  "version": "2.9.0",
-  "label": "2.9 Beta",
-  "notes": "## Neu in 2.9\n- Neuer Menüpunkt **Heatmap** neben Chart\n- Orderbuch-Heatmap im Bookmap-Stil: Liquidität über die Zeit, große Käufe und Verkäufe als Punkte, aktuelles Orderbuch rechts\n- Liquidations-Heatmap von Coinglass direkt in Nyxor\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.9.0.json",
+  "version": "2.9.1",
+  "label": "2.9.1 Beta",
+  "notes": "## Neu in 2.9.1\n- Orderbuch-Heatmap: Spanne „Auto“ passt sich der Orderbuch-Tiefe an\n- Große Orders (Walls) heben sich jetzt deutlich vom Rest ab\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.9.1.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
