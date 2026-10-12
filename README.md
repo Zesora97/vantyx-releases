@@ -1,4 +1,4 @@
-# VantyX – Markets move fast
+# VantyX – Trade with clarity
 
 Dein Trading-Cockpit für Journal, Statistik, Marktdaten und TradingView (Windows).
 
