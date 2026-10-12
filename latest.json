@@ -1,8 +1,8 @@
 {
-  "version": "2.7.3",
-  "label": "2.7.3 Beta",
-  "notes": "## Neu in 2.7.3\n- OKX per API-Schlüssel verbinden (API Key, Secret Key, Passphrase) – Trades kommen automatisch, weltweite und EU-Konten werden erkannt\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.7.3.json",
-  "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
+  "version": "2.8.0",
+  "label": "2.8 Beta",
+  "notes": "## Nyxor 2.8 – aus VantyX wird Nyxor\n- Neuer Name, neues Kristall-Logo, neue Icons und neues Begrüßungsfenster\n- Deine Daten, Einstellungen und Trades bleiben unverändert\n- Verknüpfungen im Startmenü und auf dem Desktop heißen jetzt „Nyxor“\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.8.0.json",
+  "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
