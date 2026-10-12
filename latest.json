@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
-  "label": "2.5.3 Beta",
-  "notes": "## Neu in 2.5.3\n- Glas etwas **dunkler** – Charts sind besser lesbar\n- **Lichtlauf am Rand** deutlich kräftiger\n- 14-Tage-Kacheln: Betrag groß in der Mitte, Farbe nur noch am Rand\n- Weiche **Animationen** beim Wechsel von Seiten und Ansichten\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.3.json",
+  "version": "2.5.4",
+  "label": "2.5.4 Beta",
+  "notes": "## Neu in 2.5.4\n- **Begrüßungsfenster** beim Start – danach öffnet sich VantyX direkt in voller Größe, ohne schwarzen Rand\n- **Deutlich sparsamer**: Der Lichtrand läuft einmal statt endlos, unsichtbare Bereiche werden nicht mehr gezeichnet, das Glas rechnet effizienter\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.4.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
