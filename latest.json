@@ -1,8 +1,8 @@
 {
-  "version": "2.8.2",
-  "label": "2.8.2 Beta",
-  "notes": "## Neu in 2.8.2\n- Neues Nyxor-Logo: Wortmarke mit Kristall-X\n- Das Kristall-X ist jetzt das App-Icon auf Desktop und in der Taskleiste\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.8.2.json",
+  "version": "2.8.3",
+  "label": "2.8.3 Beta",
+  "notes": "## Neu in 2.8.3\n- Rechte Leiste bleibt beim Seitenwechsel per Mausrad richtig groß\n- Kristall-X im Logo und Icon vollständig (Ecke oben links)\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.8.3.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
