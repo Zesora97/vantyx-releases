@@ -1,8 +1,8 @@
 {
-  "version": "2.8.0",
-  "label": "2.8 Beta",
-  "notes": "## Nyxor 2.8 – aus VantyX wird Nyxor\n- Neuer Name, neues Kristall-Logo, neue Icons und neues Begrüßungsfenster\n- Deine Daten, Einstellungen und Trades bleiben unverändert\n- Verknüpfungen im Startmenü und auf dem Desktop heißen jetzt „Nyxor“\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.8.0.json",
+  "version": "2.8.1",
+  "label": "2.8.1 Beta",
+  "notes": "## Neu in 2.8.1\n- Desktop- und Taskleisten-Icon zeigen jetzt zuverlässig das neue Nyxor-Logo\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.8.1.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
