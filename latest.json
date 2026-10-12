@@ -1,8 +1,8 @@
 {
-  "version": "2.7.2",
-  "label": "2.7.2 Beta",
-  "notes": "## Neu in 2.7.2\n- Einrichtung: Börse aus einem Aufklappmenü wählen (über 20 Börsen) oder „Andere Börse“ mit eigenem Namen und Startseite\n- Trades per API-Schlüssel (Bitunix, Bybit) oder per CSV-Datei von jeder Börse – mit Anleitung und automatischer Spalten-Erkennung\n- Der Börsen-Link oben im Dashboard passt sich deiner Börse an\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.7.2.json",
+  "version": "2.7.3",
+  "label": "2.7.3 Beta",
+  "notes": "## Neu in 2.7.3\n- OKX per API-Schlüssel verbinden (API Key, Secret Key, Passphrase) – Trades kommen automatisch, weltweite und EU-Konten werden erkannt\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.7.3.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
