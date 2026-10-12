@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
-  "label": "2.5.1 Beta",
-  "notes": "## Neu in 2.5.1\n- **Echter Glaseffekt**: Karten sind milchig durchscheinend, dahinter weiche Lichtflächen\n- **Lichtlauf am Rand**: Beim Drüberfahren läuft ein Lichtpunkt an der Kante der Karte entlang\n- „Guten Morgen, Julian\" jetzt in einer Größe\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.1.json",
+  "version": "2.5.2",
+  "label": "2.5.2 Beta",
+  "notes": "## Neu in 2.5.2\n- **Hintergrundbild** „Landschaft“ hinter den Glaskarten\n- Kalender-Widget zeigt jetzt die **letzten 2 Wochen**\n- **Diese Woche** zählt immer ab Montag 0 Uhr – darunter steht die Vorwoche\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.5.2.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/VantyX-Setup.zip",
   "electron": "43.2.0"
 }
