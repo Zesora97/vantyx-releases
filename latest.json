@@ -1,8 +1,8 @@
 {
-  "version": "2.9.2",
-  "label": "2.9.2 Beta",
-  "notes": "## Neu in 2.9.2\n- Neues Hintergrundbild in den Nyxor-Farben\n- App-Icon: Kristall-X jetzt auf dunkler Kachel\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.9.2.json",
+  "version": "2.10.0",
+  "label": "2.10 Beta",
+  "notes": "## Neu in 2.10\n- **Mini-Fenster:** Minimierst du Nyxor, zeigt ein kleines Fenster unten rechts deine Märkte, Heute/Woche und Trades/Tageslimit\n- Verschiebbar, Klick öffnet Nyxor wieder; an/aus im Menü bei deinem Namen\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.10.0.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
