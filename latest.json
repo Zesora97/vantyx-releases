@@ -1,8 +1,8 @@
 {
-  "version": "2.10.1",
-  "label": "2.10.1 Beta",
-  "notes": "## Neu in 2.10.1\n- Mini-Fenster mit Live-Daten: Kurs mit Verlauf, nächste Marke darüber/darunter (leuchtet gelb, wenn der Kurs nah dran ist), Funding, Liquidationen der letzten 5 Minuten und nächster Börsen-Wechsel\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.10.1.json",
+  "version": "2.11.0",
+  "label": "2.11 Beta",
+  "notes": "## Neu in 2.11\n- **Nyxor Chart**: eigener Chart direkt in Nyxor mit Live-Daten von Binance Futures\n- Über 70 Indikatoren (RSI, MACD, Bollinger, VWAP, SuperTrend …) und alle gängigen Zeichenwerkzeuge (Trendlinien, Fibonacci, Long/Short-Position, Text …)\n- Umschalter oben links: „Nyxor Chart“ oder „TradingView“ – TradingView bleibt wie bisher verfügbar\n- Deine Zeichnungen und Indikatoren bleiben gespeichert\n- Chart-Technik: Vela von LuxAlgo\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.11.0.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
