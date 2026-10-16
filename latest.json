@@ -1,8 +1,8 @@
 {
-  "version": "2.13.0",
-  "label": "2.13 Beta",
-  "notes": "## Neu in 2.13\n- Neues Design **Sakura**: japanische Landschaft im Hintergrund, helles Milchglas mit roten Akzenten\n- **Design-Auswahl** im Menü bei deinem Namen: Nyxor, Mr. Makerich oder Sakura – wechselt sofort\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.13.0.json",
+  "version": "2.13.1",
+  "label": "2.13.1 Beta",
+  "notes": "## Neu in 2.13.1\n- Sakura: Kopfzeile ohne weißen Balken – Logo, Menü und Profil als abgerundete Glas-Inseln\n- Minimieren/Schließen oben rechts wieder gut sichtbar\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.13.1.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
