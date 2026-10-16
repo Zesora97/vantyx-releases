@@ -1,8 +1,8 @@
 {
-  "version": "2.11.1",
-  "label": "2.11.1 Beta",
-  "notes": "## Neu in 2.11.1\n- News: **Forex Factory** ist jetzt die Hauptquelle – eigener Reiter, standardmäßig ausgewählt\n- High- und Medium-Impact-Meldungen sind markiert, die Original-Quelle steht dabei\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.11.1.json",
+  "version": "2.12.0",
+  "label": "2.12 Beta",
+  "notes": "## Neu in 2.12\n- **Designs**: Im Menü bei deinem Namen unter „Design“ zwischen **Nyxor** und **Mr. Makerich** wechseln\n- Mr. Makerich: Gold-Schrift, Lila-Akzente, eigenes Hintergrundbild und MR-Logo oben links\n- Der Wechsel passiert sofort und bleibt gespeichert\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.12.0.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
