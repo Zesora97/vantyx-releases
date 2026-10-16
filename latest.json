@@ -1,8 +1,8 @@
 {
-  "version": "2.13.2",
-  "label": "2.13.2 Beta",
-  "notes": "## Neu in 2.13.2\n- Sakura: kräftigeres, dunkleres Rot\n- Tage im 2-Wochen-Kalender und Krypto-Heatmap wieder grün/rot hinterlegt\n- Rechte Leiste so gläsern wie die Widgets\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.13.2.json",
+  "version": "2.14.0",
+  "label": "2.14 Beta",
+  "notes": "## Neu in 2.14\n- **Tutorial**: kurze Tour durch die App nach der Einrichtung – jederzeit neu über „Tutorial starten“ im Menü\n- **Historie**: Spalten anklicken zum Sortieren (z. B. bester PnL oben), Symbol-Suche, Zeitraum, Gewinner/Verlierer\n- Dashboard-Seiten wechseln von links nach rechts, Seitenanzeige jetzt unten\n- „Heutiger PnL“ statt „Heute“, größerer Markt-Titel im Chart\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.14.0.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
