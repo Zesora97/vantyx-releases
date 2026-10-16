@@ -1,8 +1,8 @@
 {
-  "version": "2.12.0",
-  "label": "2.12 Beta",
-  "notes": "## Neu in 2.12\n- **Designs**: Im Menü bei deinem Namen unter „Design“ zwischen **Nyxor** und **Mr. Makerich** wechseln\n- Mr. Makerich: Gold-Schrift, Lila-Akzente, eigenes Hintergrundbild und MR-Logo oben links\n- Der Wechsel passiert sofort und bleibt gespeichert\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.12.0.json",
+  "version": "2.13.0",
+  "label": "2.13 Beta",
+  "notes": "## Neu in 2.13\n- Neues Design **Sakura**: japanische Landschaft im Hintergrund, helles Milchglas mit roten Akzenten\n- **Design-Auswahl** im Menü bei deinem Namen: Nyxor, Mr. Makerich oder Sakura – wechselt sofort\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.13.0.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
