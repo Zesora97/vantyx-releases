@@ -1,8 +1,8 @@
 {
-  "version": "2.13.1",
-  "label": "2.13.1 Beta",
-  "notes": "## Neu in 2.13.1\n- Sakura: Kopfzeile ohne weißen Balken – Logo, Menü und Profil als abgerundete Glas-Inseln\n- Minimieren/Schließen oben rechts wieder gut sichtbar\n",
-  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.13.1.json",
+  "version": "2.13.2",
+  "label": "2.13.2 Beta",
+  "notes": "## Neu in 2.13.2\n- Sakura: kräftigeres, dunkleres Rot\n- Tage im 2-Wochen-Kalender und Krypto-Heatmap wieder grün/rot hinterlegt\n- Rechte Leiste so gläsern wie die Widgets\n",
+  "update": "https://raw.githubusercontent.com/Zesora97/vantyx-releases/main/updates/vantyx-update-2.13.2.json",
   "setup": "https://github.com/Zesora97/vantyx-releases/raw/main/setup/Nyxor-Setup.zip",
   "electron": "43.2.0"
 }
